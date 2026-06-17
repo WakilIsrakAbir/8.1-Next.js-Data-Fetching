@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "ProCode ll",
+      "description": "Advanced integrated development environment tailored for full-stack web development.",
+      "price": 20.99,
+      "category": "Software",
+      "rating": 4.8,
+      "stock": 150,
+      "imageUrl": "https://placehold.co/600x400/2563eb/ffffff/png?text=ProCode+IDE"
+    },
+    {
+      "id": "2",
+      "title": "DesignFlow Pro",
+      "description": "Industry-standard UI/UX design, wireframing, and prototyping tool.",
+      "price": 120.00,
+      "category": "Design Tools",
+      "rating": 4.9,
+      "stock": 85,
+      "imageUrl": "https://placehold.co/600x400/9333ea/ffffff/png?text=DesignFlow+Pro"
+    },
+    {
+      "id": "3",
+      "title": "CloudHost Premium 1-Year",
+      "description": "High-performance cloud hosting with automated CI/CD pipelines and built-in database management.",
+      "price": 199.50,
+      "category": "Hosting",
+      "rating": 4.6,
+      "stock": 500,
+      "imageUrl": "https://placehold.co/600x400/059669/ffffff/png?text=CloudHost+Premium"
+    },
+    {
+      "id": "4",
+      "title": "DevProtect VPN",
+      "description": "Secure, high-speed VPN tailored for remote development teams and API testing.",
+      "price": 45.00,
+      "category": "Security",
+      "rating": 4.7,
+      "stock": 300,
+      "imageUrl": "https://placehold.co/600x400/dc2626/ffffff/png?text=DevProtect+VPN"
+    },
+    {
+      "id": "5",
+      "title": "Mastering Advanced JavaScript",
+      "description": "Comprehensive digital book covering ES6+, async/await patterns, and performance optimization.",
+      "price": 29.99,
+      "category": "E-Books",
+      "rating": 4.9,
+      "stock": 999,
+      "imageUrl": "https://placehold.co/600x400/ea580c/ffffff/png?text=JS+Book"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Deep Learning for Computer Vision",
+      "author": "Dr. Alan Turing",
+      "description": "Advanced techniques covering CNNs, hybrid architectures, EfficientNet, and image preprocessing.",
+      "price": 55.00,
+      "category": "Artificial Intelligence",
+      "rating": 4.9,
+      "stock": 45,
+      "imageUrl": "https://placehold.co/600x800/10b981/ffffff/png?text=Computer+Vision"
+    },
+    {
+      "id": "2",
+      "title": "Modern Full-Stack with Next.js",
+      "author": "Elena Rodriguez",
+      "description": "Build dynamic, server-rendered React applications with comprehensive routing and authentication.",
+      "price": 42.50,
+      "category": "Web Development",
+      "rating": 4.8,
+      "stock": 110,
+      "imageUrl": "https://placehold.co/600x800/3b82f6/ffffff/png?text=Next.js+Guide"
+    },
+    {
+      "id": "3",
+      "title": "The Gorgeous UI/UX Playbook",
+      "author": "Marcus Chen",
+      "description": "A practical guide to designing eye-catchy, simple, and professional web interfaces using Figma and Tailwind.",
+      "price": 38.00,
+      "category": "Design",
+      "rating": 4.7,
+      "stock": 85,
+      "imageUrl": "https://placehold.co/600x800/8b5cf6/ffffff/png?text=UI+UX+Playbook"
+    },
+    {
+      "id": "4",
+      "title": "Enterprise Laravel & Vue.js",
+      "author": "Taylor Otwell Jr.",
+      "description": "Mastering robust back-end APIs, database management, and reactive front-end implementations.",
+      "price": 49.99,
+      "category": "Web Development",
+      "rating": 4.6,
+      "stock": 60,
+      "imageUrl": "https://placehold.co/600x800/ef4444/ffffff/png?text=Laravel+%26+Vue"
+    },
+    {
+      "id": "5",
+      "title": "Medical Image Classification Architectures",
+      "author": "Sarah Jenkins",
+      "description": "Research frameworks, data balancing techniques, and ensemble models for medical datasets.",
+      "price": 65.00,
+      "category": "Academic Research",
+      "rating": 5.0,
+      "stock": 25,
+      "imageUrl": "https://placehold.co/600x800/f59e0b/ffffff/png?text=Medical+Imaging"
+    }
+  ]
+}
