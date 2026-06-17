@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const Header = () => {
@@ -5,10 +6,10 @@ const Header = () => {
     const links = (
       <>
         <li>
-          <a>Item 21</a>
+          <Link href="/">Home</Link>
         </li>
         <li>
-          <a>Item 37</a>
+          <Link href="/posts">Posts</Link>
         </li>
       </>
     );
